@@ -12,7 +12,7 @@ Note: *export is disabled to stop libpng freaking out (because zlib doesn't by d
     git clone https://github.com/awstanley/deps-zlib-libpng
     cd deps-zlib-libpng
     git submodule init
-    git submodule update --remote --merge
+    git submodule update --init --recursive && git submodule update --remote
 
 
 ### Setting up the build
@@ -29,7 +29,7 @@ Then use your toolchain as normal.
 
 From within the project:
 
-    git submodule update --remote --merge
+    git submodule update --init --recursive && git submodule update --remote
 
 If you are embedded within another project, the above command will work if it is a git repository.
 
