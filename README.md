@@ -49,4 +49,4 @@ There is no sample for this; it's nothing complex and most people using these li
 
 As I've been asked, consider this public domain (it's just a CMakeLists file!); licences for libraries used obviously vary, and at the time of writing they are both under the zlib/png.  (Check respective `LICENCE` or `COPYING` files).
 
-If public domain isn't available for you (for whatever legal reason), consider this under MIT.
+If public domain isn't available for you (for whatever legal reason), consider this under zlib/png.
