@@ -43,7 +43,7 @@ Embedding is trivial.  If this project is not top/root, it will feed its values 
 
 ## Sample
 
-There is no sample for this; it's nothing complex and most people using these libraries for game development do so through another interface (usually `stb_image.h`, `SOIL`, `SFML`, `SDL` (via `SDL_image`), or similar).
+There is no sample for this; it's nothing complex and most people using these libraries for game development do so through another interface (usually `SFML`, `SDL` (via `SDL_image`), or similar).
 
 ## Licence
 
